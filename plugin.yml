@@ -1,0 +1,6 @@
+name: AntiDrop
+author: UnNyanCat
+version: 1.0.0
+main: antidrop\Main
+description: "Anti Drop CreatorINFO by UnNyanCat"
+api: 3.12.2
