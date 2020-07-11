@@ -1,2 +1,2 @@
 # AntiDrop
-Plugin pour empêcher le drop de certains objets
+Plugin for allow or deny drop of items choosed in the plugin
