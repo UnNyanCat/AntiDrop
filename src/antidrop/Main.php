@@ -23,12 +23,9 @@ class Main extends PluginBase implements Listener {
 		$player = $event->getPlayer();
 		$item = $event->getItem();
 
-		$item1 = $event->getItem();
-
 		if($item->getId() == 1){
 			$event->setCancelled(true);
 			$player->sendMessage("Vous ne pouvez pas lancer l'objet : item1");
-			$player->sendMessage("You can't drop item : $item1");
 		}
 	}
 }
